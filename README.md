@@ -1,1 +1,1 @@
-Projeto de análise de um sistema de fazenda urbana
+Projeto de análise: sistema de gerenciamento de fazenda urbana.
